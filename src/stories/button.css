@@ -5,7 +5,7 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
-  width: 200px;
+  width: 300px;
 }
 .racino-button--primary:hover {
   background-color: #df487f
